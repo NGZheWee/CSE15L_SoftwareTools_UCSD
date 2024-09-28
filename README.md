@@ -1,6 +1,6 @@
-# CSE15: Software Tools & Techniques Lab (Fall 2022, UCSD)
+# CSE15: Software Tools & Techniques Lab (Speing 2021, UCSD)
 
-This repository contains coursework from **CSE15: Software Tools & Techniques Lab**, taken in Fall 2022 at UC San Diego. The course focuses on essential software tools for development, including version control, automation, and scripting.
+This repository contains coursework from **CSE15: Software Tools & Techniques Lab**, taken in Speing 2021 at UC San Diego. The course focuses on essential software tools for development, including version control, automation, and scripting.
 
 ## Contents:
 
