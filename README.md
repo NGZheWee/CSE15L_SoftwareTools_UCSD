@@ -1,6 +1,6 @@
-# CSE15: Software Tools & Techniques Lab (Speing 2021, UCSD)
+# CSE15L: Software Tools & Techniques Lab (Spring 2021, UCSD)
 
-This repository contains coursework from **CSE15: Software Tools & Techniques Lab**, taken in Speing 2021 at UC San Diego. The course focuses on essential software tools for development, including version control, automation, and scripting.
+This repository contains coursework from **CSE15L: Software Tools & Techniques Lab**, taken in Spring 2021 at UC San Diego. The course focuses on essential software tools for development, including version control, automation, and scripting.
 
 ## Contents:
 
@@ -17,4 +17,6 @@ This repository contains coursework from **CSE15: Software Tools & Techniques La
 - **Homework**: You can find all homework assignments under the `Homework/` directory.
 - **Scripting Projects**: The `Scripting Projects/` directory contains projects focused on scripting and automation tasks.
 
-Explore the coursework to see implementations of software tools and automation techniques.
+## Academic Integrity Note
+
+This repository contains my own coursework submissions and related learning artifacts, shared for portfolio review only; do not copy or submit this material for active or future coursework, and follow your institution's academic integrity policies.
